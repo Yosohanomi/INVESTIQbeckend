@@ -1,0 +1,132 @@
+[
+  {
+    "id": "399eef38-1d38-45f9-b9f8-120a67bad559",
+    "userId": 4,
+    "type": "income",
+    "amount": 20,
+    "category": "Здоров'я",
+    "description": "hello",
+    "date": "2026-06-30T00:00:00.000Z",
+    "createdAt": "2026-06-30T16:19:30.606Z"
+  },
+  {
+    "id": "f1088d6f-c059-4c75-8a4c-8fd80feb76de",
+    "userId": 4,
+    "type": "expense",
+    "amount": 1,
+    "category": "Продукти",
+    "description": "hello",
+    "date": "2026-06-30T00:00:00.000Z",
+    "createdAt": "2026-06-30T16:22:14.443Z"
+  },
+  {
+    "id": "3f1fad4f-e63c-4cfa-bb78-a095e3440ff7",
+    "userId": 4,
+    "type": "income",
+    "amount": 20,
+    "category": "Транспорт",
+    "description": "hello",
+    "date": "2026-06-30T00:00:00.000Z",
+    "createdAt": "2026-06-30T16:22:30.439Z"
+  },
+  {
+    "id": "2d451dfc-eaa1-48ba-a16d-949e0c0bd479",
+    "userId": 4,
+    "type": "income",
+    "amount": 3,
+    "category": "Продукти",
+    "description": "hello",
+    "date": "2026-06-30T00:00:00.000Z",
+    "createdAt": "2026-06-30T16:40:13.283Z"
+  },
+  {
+    "id": "5d62aa25-5c2c-4ea5-84fb-15b8af3d3ce1",
+    "userId": 4,
+    "type": "income",
+    "amount": 21,
+    "category": "Продукти",
+    "description": "hello",
+    "date": "2026-06-30T00:00:00.000Z",
+    "createdAt": "2026-06-30T16:46:02.123Z"
+  },
+  {
+    "id": "7e43df09-7355-434d-8aad-6770c10b1635",
+    "userId": 4,
+    "type": "income",
+    "amount": 32,
+    "category": "Транспорт",
+    "description": "hello",
+    "date": "2026-06-30T00:00:00.000Z",
+    "createdAt": "2026-06-30T16:56:44.549Z"
+  },
+  {
+    "id": "d0d05fd7-5e98-4549-b4eb-3b3d6fca6239",
+    "userId": 4,
+    "type": "income",
+    "amount": 123,
+    "category": "Все для дому",
+    "description": "hello",
+    "date": "2026-06-30T00:00:00.000Z",
+    "createdAt": "2026-06-30T16:57:13.198Z"
+  },
+  {
+    "id": "36ae0618-5731-4747-8487-20c4e8a42d55",
+    "userId": 4,
+    "type": "income",
+    "amount": 2,
+    "category": "Інше",
+    "description": "Поповнення балансу",
+    "date": "2026-06-30T00:00:00.000Z",
+    "createdAt": "2026-06-30T17:33:59.210Z"
+  },
+  {
+    "id": "3a4c0861-db07-44bc-85ad-0d95ba394fe4",
+    "userId": 4,
+    "type": "income",
+    "amount": 25,
+    "category": "Техніка",
+    "description": "hello",
+    "date": "2026-07-02T00:00:00.000Z",
+    "createdAt": "2026-07-02T10:07:30.078Z"
+  },
+  {
+    "id": "b77a729f-5ae4-4116-af8f-562cc24b1058",
+    "userId": 6,
+    "type": "income",
+    "amount": 50,
+    "category": "Інше",
+    "description": "Поповнення балансу",
+    "date": "2026-07-02T00:00:00.000Z",
+    "createdAt": "2026-07-02T10:17:35.128Z"
+  },
+  {
+    "id": "e845c167-cb99-407e-956c-a1b34c81f89c",
+    "userId": 9,
+    "type": "income",
+    "amount": 200,
+    "category": "Інше",
+    "description": "Поповнення балансу",
+    "date": "2026-07-02T00:00:00.000Z",
+    "createdAt": "2026-07-02T14:06:58.944Z"
+  },
+  {
+    "id": "a105a426-d86a-4801-852b-a42277195eb1",
+    "userId": 9,
+    "type": "income",
+    "amount": 250,
+    "category": "Навчання",
+    "description": "проект",
+    "date": "2026-07-02T00:00:00.000Z",
+    "createdAt": "2026-07-02T14:08:03.370Z"
+  },
+  {
+    "id": "0f6826ef-c51d-45fd-a424-a4050cbe7975",
+    "userId": 9,
+    "type": "expense",
+    "amount": 20,
+    "category": "Продукти",
+    "description": "яблука",
+    "date": "2026-07-02T00:00:00.000Z",
+    "createdAt": "2026-07-02T14:08:17.181Z"
+  }
+]

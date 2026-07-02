@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "email": "admin@example.com",
+    "name": "Admin",
+    "role": "admin",
+    "password": "$2b$12$5TX6G.Zlgwi06K4MSsCk.ecqlm.Fd5RKOI0bPYfDH0aPt5iOjV2Sa"
+  },
+  {
+    "id": 2,
+    "email": "user@example.com",
+    "name": "Test User",
+    "role": "user",
+    "password": "$2b$12$5TX6G.Zlgwi06K4MSsCk.ecqlm.Fd5RKOI0bPYfDH0aPt5iOjV2Sa"
+  },
+  {
+    "id": 3,
+    "email": "manager@example.com",
+    "name": "Test User",
+    "role": "manager",
+    "password": "$2b$12$5TX6G.Zlgwi06K4MSsCk.ecqlm.Fd5RKOI0bPYfDH0aPt5iOjV2Sa"
+  },
+  {
+    "id": 4,
+    "email": "sofialysenko24@gmail.com",
+    "name": "Софія",
+    "role": "user",
+    "password": "$2b$12$i005Rum.KCZ7ZheOFMCn9.VDp3mxQ2y/BP07hT1EI9F0ee3zAPoyS"
+  },
+  {
+    "id": 5,
+    "email": "nadia.z13072011@gmail.com",
+    "name": "Nadia",
+    "role": "user",
+    "password": "$2b$12$OSHTZc0JGX7aYIj6WheL6eG8BTT1p7lC0c4MzRfJaXnNUoEXga2kW"
+  },
+  {
+    "id": 6,
+    "email": "ababa@gmail.com",
+    "name": "Шо ти маленьки привет",
+    "role": "user",
+    "password": "$2b$12$yPM6IwMntffkeGfPDUXgVe1Yzb8Yhfi05Si5tsQscihn8dfnBx.R."
+  },
+  {
+    "id": 7,
+    "email": "dada@gmail.com",
+    "name": "dada",
+    "role": "user",
+    "password": "$2b$12$pGK1PFhiprXxPZXEXflTlOvs/mF.2VwzzZXSrAMaq8FhyDDMRgfRO"
+  },
+  {
+    "id": 8,
+    "email": "elele@gmail.com",
+    "name": "SOFIIA LYSENKO",
+    "role": "user",
+    "password": "$2b$12$xo0ftZ.f.ls4utZ6Da8pQOu32QYgCk2eRa7pxcmExmnz6hY2SYsmC"
+  },
+  {
+    "id": 9,
+    "email": "fosi72@gmail.com",
+    "name": "Софія",
+    "role": "user",
+    "password": "$2b$12$QuBWDEKvD8JqhLKxWUGRQu.D0pg32bhZHP7nQG3uf1mo3A/rTyyyq"
+  }
+]

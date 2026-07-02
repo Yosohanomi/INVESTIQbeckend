@@ -1,0 +1,20 @@
+[
+  { "id": "salary",      "label": "Зарплата",       "type": "income",  "icon": "💼" },
+  { "id": "freelance",   "label": "Фріланс",         "type": "income",  "icon": "💻" },
+  { "id": "gift",        "label": "Подарунок",       "type": "income",  "icon": "🎁" },
+  { "id": "investment",  "label": "Інвестиції",      "type": "income",  "icon": "📈" },
+  { "id": "other_in",   "label": "Інший дохід",     "type": "income",  "icon": "💰" },
+
+  { "id": "food",        "label": "Продукти",        "type": "expense", "icon": "🛒" },
+  { "id": "cafe",        "label": "Кафе/Ресторани",  "type": "expense", "icon": "☕" },
+  { "id": "transport",   "label": "Транспорт",       "type": "expense", "icon": "🚌" },
+  { "id": "housing",     "label": "Житло/Комунальні","type": "expense", "icon": "🏠" },
+  { "id": "health",      "label": "Здоровʼя",        "type": "expense", "icon": "💊" },
+  { "id": "sport",       "label": "Спорт",           "type": "expense", "icon": "🏋️" },
+  { "id": "clothing",    "label": "Одяг",            "type": "expense", "icon": "👕" },
+  { "id": "entertainment","label": "Розваги",        "type": "expense", "icon": "🎬" },
+  { "id": "education",   "label": "Освіта",          "type": "expense", "icon": "📚" },
+  { "id": "subscriptions","label": "Підписки",       "type": "expense", "icon": "📱" },
+  { "id": "travel",      "label": "Подорожі",        "type": "expense", "icon": "✈️" },
+  { "id": "other_ex",   "label": "Інші витрати",    "type": "expense", "icon": "📦" }
+]
