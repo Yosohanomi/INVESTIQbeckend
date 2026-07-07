@@ -14,7 +14,7 @@ dotenv.config()
 const app = express()
 
 app.use(cors({
-  origin: 'https://investiqpj.netlify.app/',
+  origin: 'https://investiqpj.netlify.app',
   credentials: true
 }));
 
